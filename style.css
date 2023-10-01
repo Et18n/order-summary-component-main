@@ -138,4 +138,7 @@ a:hover {
   .pay-column {
     margin-right: 3rem;
   }
+  .pay {
+    margin-left: 1rem;
+  }
 }
