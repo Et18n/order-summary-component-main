@@ -141,4 +141,7 @@ a:hover {
   .pay {
     margin-left: 2rem;
   }
+  .pay-head {
+    font-size: 14.6px;
+  }
 }
