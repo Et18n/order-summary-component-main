@@ -137,5 +137,6 @@ a:hover {
 @media only screen and (max-width: 600px) {
   .pay-column {
     margin-right: 3rem;
+    margin-left: 1rem;
   }
 }
