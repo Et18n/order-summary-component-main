@@ -135,7 +135,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-  .pay-column {
+  .pay-head {
     font-size: 14px;
   }
 }
